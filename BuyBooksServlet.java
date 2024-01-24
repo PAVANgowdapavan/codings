@@ -63,7 +63,8 @@ public class BuyBooksServlet extends HttpServlet {
                                                                                                           // made equal
                                                                                                           // to bcode
                         "				</td>");
-pavankuamr
+my name is pavan
+
 
                 pw.println("<td>" + bCode + "</td>");
                 pw.println("<td>" + bName + "</td>");
