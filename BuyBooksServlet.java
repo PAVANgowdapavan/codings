@@ -64,6 +64,8 @@ public class BuyBooksServlet extends HttpServlet {
                                                                                                           // to bcode
                         "				</td>");
 my name is pavan
+hiii
+
 
 
                 pw.println("<td>" + bCode + "</td>");
